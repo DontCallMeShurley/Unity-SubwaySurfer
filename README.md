@@ -1,4 +1,6 @@
 # Unity-SubwaySurfer
+https://img.shields.io/github/downloads/DontCallMeShurley/Unity-SubwaySurfer/total?style=plastic
+
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/DontCallMeShurley/Unity-SubwaySurfer/final/total?label=downloads&style=plastic)
 
 Unity 3D
