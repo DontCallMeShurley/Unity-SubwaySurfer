@@ -1,4 +1,5 @@
 # Unity-SubwaySurfer
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/DontCallMeShurley/Unity-SubwaySurfer/final/total?label=downloads&style=plastic)
 Unity 3D
 
 Running Game on Unity 3D and developed in Spring 2021
